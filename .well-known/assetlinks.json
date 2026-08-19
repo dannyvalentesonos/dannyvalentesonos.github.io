@@ -1,0 +1,22 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.sonos.acr2",
+            "sha256_cert_fingerprints": [
+                "7C:34:EB:3C:FB:DA:05:FA:F5:6E:88:90:A2:AB:BA:C1:4B:30:36:E6:E4:35:88:49:B9:8E:88:19:B6:B7:B3:29"
+            ]
+        }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.sonos.acr2",
+            "sha256_cert_fingerprints": [
+                "7A:51:0B:FA:F2:40:CD:C8:61:47:B1:FF:B7:7D:12:90:D1:93:94:1D:98:F1:6A:DA:B4:0A:D6:40:38:C9:83:1B"
+            ]
+        }
+    }
+]

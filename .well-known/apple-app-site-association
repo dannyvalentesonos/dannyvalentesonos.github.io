@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2G4LW83Q3E.com.sonos.pdsw-app-passport-ios",
+                "paths": ["*"]
+            },
+            {
+                "appID": "5D8FF5K8JQ.com.sonos.internal.SonosPassportController",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
